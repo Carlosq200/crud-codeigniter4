@@ -1,0 +1,11 @@
+﻿/writable/cache/
+/writable/logs/
+/writable/session/
+/writable/debugbar/
+/vendor/
+/.env
+/.env.*
+/node_modules/
+/composer.lock
+/public/uploads/*
+!.gitkeep
