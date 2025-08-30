@@ -1,0 +1,18 @@
+INSTRUCCIONES RÁPIDAS (ESTUDIANTE)
+
+1) Base de datos
+- Editar app/Config/Database.php con mi usuario/clave y DB.
+- Ejecutar script.sql en MariaDB para crear tablas.
+
+2) Correr
+- php spark serve
+- Navegar a http://localhost:8080
+
+3) Revisar
+- /cursos para CRUD de cursos.
+- /alumnos para asignar cursos con los íconos y ver asignados.
+
+4) Entregables
+- Subir el proyecto a GitHub.
+- Guardar pantallazos en public/docs/
+- Agregar diagrama ER en public/docs/er_diagrama.md
